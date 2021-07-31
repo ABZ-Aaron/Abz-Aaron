@@ -1,6 +1,6 @@
-### Hi there. I'm Aaron 👋
+## Hi there. I'm Aaron 👋
 
-## About Me 
+### About Me 
 
 - :earth_americas: Working in Engineering Systems & Project Delivery Support
 - :sunglasses: Neuroscience MSc Graduate
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working through Data Engineering track via DataQuest & Harvard's CS50 Intro to Computer Science course
 - :closed_book: I'm currently reading "Designing Data Intenstive Applications"
 
-## Currently Learning
+### Currently Learning
 
 
 <!--
