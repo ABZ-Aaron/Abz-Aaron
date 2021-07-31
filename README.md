@@ -5,7 +5,8 @@
 - :earth_americas: Working in Engineering Systems & Project Delivery Support
 - :sunglasses: Neuroscience MSc Graduate
 - 🌱 Self-learning Data Engineering
-- 🔭 I’m currently working through Data Engineering track via DataQuest & Harvard's CS50 Intro to Computer Science course
+- 🔭 I’m currently working through Data Engineering track via DataQuest
+- 🔭 I'm currently working through Harvard's CS50 Intro to Computer Science course
 - :closed_book: I'm currently reading "Designing Data Intenstive Applications"
 
 ### Currently Learning
