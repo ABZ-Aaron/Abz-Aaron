@@ -9,6 +9,8 @@
 - 🔭 I'm currently working through Harvard's CS50 Intro to Computer Science course
 - :closed_book: I'm currently reading "Designing Data Intensive Applications"
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/abzaaron.svg?style=social&label=Follow%20%40abzaaron)](https://twitter.com/abzaaron)
+
 
 <!--
 **ABZ-Aaron/Abz-Aaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
