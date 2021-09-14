@@ -1,7 +1,7 @@
 
 ## Hi there. I'm Aaron 👋
 
-A brief description of what this project does and who it's for
+I am a self-taught programmer with an interest in data engineering. Feel free to browse my repositories. 
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ A brief description of what this project does and who it's for
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abzaaron/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbzAaron)
 
-## Support
+## Support Me
 
 <a href="https://www.buymeacoffee.com/AbzAaron" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="120"></a>
 
