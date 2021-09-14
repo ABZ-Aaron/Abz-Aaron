@@ -2,19 +2,24 @@
 
 ### About Me 
 
-- :earth_americas: Working in Engineering Systems
+- :earth_americas: Interested in Data Engineering
 - :sunglasses: Neuroscience MSc Graduate
-- 🌱 Self-learning Data Engineering
-- 🔭 I’m currently working through the Data Engineering track via DataQuest
-- 🔭 I'm currently working through Harvard's CS50 Intro to Computer Science course
+- 🔭 Working through the Data Engineering track via DataQuest
+- 🔭 Working through Harvard's CS50 Intro to Computer Science course
+- 🔭 Working through a Mega Tutorial for Flask
 - :closed_book: I'm currently reading "Designing Data Intensive Applications"
 
-### Let's Connect
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/abzaaron.svg?style=social&label=Follow%20%40abzaaron)](https://twitter.com/abzaaron)
+### Support Me
 
+<a href="https://www.buymeacoffee.com/AbzAaron" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<!--
+### My Work
+
+Below you can see my pinned repositories.
+
+Alongside my portfolio, I have also pinned my SQL Tutorials and Cheatsheets. I post these on Twitter to help out my fellow tech nerds :)
+
 **ABZ-Aaron/Abz-Aaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
