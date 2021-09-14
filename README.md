@@ -1,5 +1,5 @@
 
-## Hi there. I'm Aaron 👋
+# Hi there. I'm Aaron 👋
 
 I am a self-taught programmer with an interest in data engineering. Feel free to browse my repositories. 
 
