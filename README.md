@@ -7,10 +7,10 @@ I am a self-taught programmer with an interest in data engineering. I would love
 
 ## About Me
 
-* 🌱 I'm learning Python, SQL, & Data Engineering tech
-* 📖 I love to read when I have the time!
-* 🖥️ Working through a Mega Tutorial for Python Flask.
-* 😄 Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)!
+* 🌱  I'm learning Python, SQL, & Data Engineering tech
+* 📖  I love to read when I have the time!
+* 🖥️  Working through a Mega Tutorial for Python Flask.
+* 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)!
 
 ## Tech
 
