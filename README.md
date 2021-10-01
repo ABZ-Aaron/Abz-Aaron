@@ -22,3 +22,6 @@ I am a self-taught programmer with an interest in data engineering. I would love
 ## 📕 Support Me
 
 <a href="https://www.buymeacoffee.com/AbzAaron" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="180"></a>
+
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abz-Aaron&show_icons=true&theme=radical)
+
