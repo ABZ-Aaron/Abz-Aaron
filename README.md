@@ -1,11 +1,7 @@
 
 # Hi there. I'm Aaron 👋
 
-Welcome to my profile! 
-
 I am a self-taught programmer with an interest in data engineering. I would love to connect 🙂
-
-## About Me
 
 * 🌱  I'm learning Python, SQL, & Data Engineering tech
 * 📖  I love to read when I have the time!
