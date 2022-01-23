@@ -5,7 +5,7 @@ I am a self-taught programmer with an interest in data & software engineering. I
 
 * 🌱  I'm learning Python & SQL.
 * 📖  I love to read when I have the time!
-* 🖥️  Working through a Mega Tutorial for Python Flask.
+* 🖥️  Working through a Data Engineering Bootcamp.
 * 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)!
 
 ## Tech
