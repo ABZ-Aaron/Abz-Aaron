@@ -5,7 +5,7 @@ I am a self-taught programmer with an interest in data & software engineering. I
 
 * 🌱  I'm learning Python & SQL.
 * 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-* 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)!
+* 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets) !!
 
 ## Tech
 
