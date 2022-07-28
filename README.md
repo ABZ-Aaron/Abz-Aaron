@@ -3,7 +3,7 @@
 
 I am a self-taught programmer with an interest in data & software engineering. I would love to connect 🙂
 
-* 🌱  I'm learning Python & SQL.
+* 🌱  I'm learning Python, SQL, & AWS.
 * 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline) !!
 * 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets) !!
 
