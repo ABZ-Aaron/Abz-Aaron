@@ -16,7 +16,7 @@ I am a self-taught programmer with an interest in data & software engineering. I
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Favourite Projects!
+### Recent Project
 
 <p>
   <h4>Reddit Extraction</h4>
