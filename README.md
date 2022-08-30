@@ -16,6 +16,16 @@ I am a self-taught programmer with an interest in data & software engineering. I
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+## Projects!
+
+<p>
+  <h3>Reddit Extraction</h3>
+  <a href="https://github.com/ABZ-Aaron/Reddit-API-Pipeline">
+    <img width="400" src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/workflow.png" />
+  </a>
+</p>
+
+
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
