@@ -1,7 +1,7 @@
 
 # Hi there. I'm Aaron 👋
 
-I am a self-taught programmer with an interest in data & software engineering. I would love to connect 🙂
+I am a self-taught programmer with an interest in Analytics, Data & Software Engineering. I would love to connect 🙂
 
 * 🌱  I'm learning Python, SQL, & AWS.
 * 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline) !!
