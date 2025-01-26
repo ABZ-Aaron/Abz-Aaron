@@ -1,7 +1,7 @@
 
 # Hi there. I'm Aaron 👋
 
-I am a Data Engineer with an interest Analytics, Data & Programming. I would love to connect 🙂
+I am a Data Engineer with an interest Analytics, Data, and Programming. I would love to connect 🙂
 
 * 🌱  I'm developing and improving skills in Python, SQL, GCP, Snowflake and much more.
 * 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline) !!
