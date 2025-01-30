@@ -4,17 +4,24 @@
 I am a Data Engineer with an interest Analytics, Data, and Programming. I would love to connect 🙂
 
 * 🌱  I'm developing and improving skills in Python, SQL, GCP, Snowflake and much more.
-* 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline) !!
-* 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets) !!
+* 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+* 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)
 
 ### Tech
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ### Recent Project
 
