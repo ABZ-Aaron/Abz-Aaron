@@ -1,9 +1,8 @@
 
 # Hi there. I'm Aaron 👋
 
-I am a Data Engineer with an interest Analytics, Data, and Programming. I would love to connect 🙂
+I am a Data Engineer with an interest Analytics, Data, and Programming. I would love to connect
 
-* 🌱  I'm developing and improving skills in Python, SQL, GCP, Snowflake and much more.
 * 🖥️  Check out some of my projects ~ [Reddit ELT](https://github.com/ABZ-Aaron/Reddit-API-Pipeline) & [CoinCap ETL](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 * 😄  Check out my [SQL Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials) or [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)
 
@@ -20,8 +19,6 @@ I am a Data Engineer with an interest Analytics, Data, and Programming. I would 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 ### Recent Project
 
